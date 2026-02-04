@@ -1,4 +1,4 @@
-# Dummy-Linux-Driver
+# Linux Driver Playground
 My playground/storage of the dummy Linux drivers I write for practice. The driver provides methods for various syscalls. 
 
 - run make to compile the project
